@@ -21,7 +21,7 @@ This project implements a web-based Student Enrollment Form that utilizes JsonPo
 - [Examples of Use](#examples-of-use)
 - [Features Implemented](#features-implemented)
 - [Project Status](#project-status)
-- [Sources](#sources)
+- [Sources](#Sources)
 - [Other Information](#other-information)
 
 ## 🎨 Illustrations
