@@ -61,12 +61,4 @@ The project is currently in its initial release version. Future updates and enha
 - [Bootstrap Documentation](https://getbootstrap.com/docs/3.4/)
 
 ## ℹ️ Other Information
-Feel free to contribute to the project by submitting pull requests or reporting issues on the [GitHub repository](https://github.com/yourusername/student-enrollment-form).
-
-
-## Sources
-- [JsonPowerDB Documentation](https://jsonpowerdb.com/)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/3.4/)
-
-## Other Information
-Feel free to contribute to the project by submitting pull requests or reporting issues on the [GitHub repository](https://github.com/yourusername/student-enrollment-form).
+Feel free to contribute to the project by submitting pull requests or reporting issues on the [GitHub repository](https://https://github.com/Haripriya1328/Login2xplore).
