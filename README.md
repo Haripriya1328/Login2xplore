@@ -12,17 +12,18 @@ This project implements a web-based Student Enrollment Form that utilizes JsonPo
 - **v1.0.0 (2023-12-18):** Initial release of the Student Enrollment Form project.
 
 ## 📚 Table of Contents
-- [Description](#description)
-- [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)
-- [Release History](#release-history)
-- [Table of Contents](#table-of-contents)
-- [Illustrations](#illustrations)
-- [Scope of Functionalities](#scope-of-functionalities)
-- [Examples of Use](#examples-of-use)
-- [Features Implemented](#features-implemented)
-- [Project Status](#project-status)
-- [Sources](#sources)
-- [Other Information](#other-information)
+- [Description](#-description)
+- [Benefits of using JsonPowerDB](#-benefits-of-using-jsonpowerdb)
+- [Release History](#-release-history)
+- [Table of Contents](#-table-of-contents)
+- [Illustrations](#-illustrations)
+- [Scope of Functionalities](#-scope-of-functionalities)
+- [Examples of Use](#-examples-of-use)
+- [Features Implemented](#-features-implemented)
+- [Project Status](#-project-status)
+- [Sources](#-sources)
+- [Other Information](#-other-information)
+
 
 ## 🎨 Illustrations
 ![image](https://github.com/Haripriya1328/Login2xplore/assets/85386020/0d9714c0-74eb-48f7-ac5a-287360b8f89c)
